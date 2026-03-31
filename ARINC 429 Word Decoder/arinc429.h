@@ -26,7 +26,6 @@
 // Data Structures
 // -----------------------------------------------------------------------------
 
-// A clean struct to hold the decoded values for application use
 typedef struct 
 {
     uint8_t  label;
