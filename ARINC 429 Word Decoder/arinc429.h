@@ -16,6 +16,7 @@
 // -----------------------------------------------------------------------------
 // ARINC 429 Bit Shifts
 // -----------------------------------------------------------------------------
+#define ARINC_SHIFT_LABEL  0
 #define ARINC_SHIFT_SDI    8
 #define ARINC_SHIFT_DATA   10
 #define ARINC_SHIFT_SSM    29
